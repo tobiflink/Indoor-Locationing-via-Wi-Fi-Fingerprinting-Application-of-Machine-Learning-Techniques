@@ -1,0 +1,2 @@
+# Indoor-Locationing-via-Wi-Fi-Fingerprinting-Application-of-Machine-Learning-Techniques
+We were provided a large database of Wi-Fi fingerprints for a multi-building industrial campus with a location (building, floor, and location ID) associated with each fingerprint. We were tasked to evaluate multiple machine learning models to see which produces the best result, enabling us to make a recommendation to the client.
